@@ -1,0 +1,156 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 6,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023265",
+                "ufid": "25122599",
+                "name": "Fresh 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/25122599/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/25122599/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/25122599/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 001"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023266",
+                "ufid": "69850695",
+                "name": "Fresh 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/69850695/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/69850695/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/69850695/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 002"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023267",
+                "ufid": "68387110",
+                "name": "Fresh 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68387110/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68387110/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68387110/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 003"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023268",
+                "ufid": "68308633",
+                "name": "Fresh 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68308633/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68308633/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68308633/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 004"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023269",
+                "ufid": "68792911",
+                "name": "Fresh 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68792911/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68792911/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/68792911/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 005"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023270",
+                "ufid": "24217852",
+                "name": "Fresh 006",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24217852/file.cube?nonce=da77d385f81257ce45b94950449ca538",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24217852/cover.png?nonce=da77d385f81257ce45b94950449ca538",
+                "updatetime": "1704688831",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 6,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24217852/cover2.png?nonce=da77d385f81257ce45b94950449ca538",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Fresh 006"
+                },
+                "category": "38543845,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

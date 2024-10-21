@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 5,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023000",
+                "ufid": "12722854",
+                "name": "Architecture 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/12722854/file.cube?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/12722854/cover.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "updatetime": "1704688782",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/12722854/cover2.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Architecture 001"
+                },
+                "category": "23985691,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023001",
+                "ufid": "35286237",
+                "name": "Architecture 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35286237/file.cube?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35286237/cover.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "updatetime": "1704688782",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35286237/cover2.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Architecture 002"
+                },
+                "category": "23985691,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023002",
+                "ufid": "60426708",
+                "name": "Architecture 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60426708/file.cube?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60426708/cover.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "updatetime": "1704688782",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60426708/cover2.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Architecture 003"
+                },
+                "category": "23985691,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023003",
+                "ufid": "94939053",
+                "name": "Architecture 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94939053/file.cube?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94939053/cover.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "updatetime": "1704688782",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94939053/cover2.png?nonce=b1c9a33e6d6985f5692497577a54dde0",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Architecture 004"
+                },
+                "category": "23985691,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023004",
+                "ufid": "85572840",
+                "name": "Architecture 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/85572840/file.cube?nonce=08140b6aeb403fc893bbbddd69907ff0",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/85572840/cover.png?nonce=08140b6aeb403fc893bbbddd69907ff0",
+                "updatetime": "1704688783",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/85572840/cover2.png?nonce=08140b6aeb403fc893bbbddd69907ff0",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Architecture 005"
+                },
+                "category": "23985691,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

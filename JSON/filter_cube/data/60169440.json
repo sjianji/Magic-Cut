@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 5,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023143",
+                "ufid": "56589584",
+                "name": "Green 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/56589584/file.cube?nonce=a31d71c477b3757b00b5508c74de5f5c",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/56589584/cover.png?nonce=a31d71c477b3757b00b5508c74de5f5c",
+                "updatetime": "1704688808",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/56589584/cover2.png?nonce=a31d71c477b3757b00b5508c74de5f5c",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Green 001"
+                },
+                "category": "60169440,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023144",
+                "ufid": "32271403",
+                "name": "Green 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/32271403/file.cube?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/32271403/cover.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "updatetime": "1704688809",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/32271403/cover2.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Green 002"
+                },
+                "category": "60169440,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023145",
+                "ufid": "74104874",
+                "name": "Green 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/74104874/file.cube?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/74104874/cover.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "updatetime": "1704688809",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/74104874/cover2.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Green 003"
+                },
+                "category": "60169440,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023146",
+                "ufid": "50744655",
+                "name": "Green 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/50744655/file.cube?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/50744655/cover.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "updatetime": "1704688809",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/50744655/cover2.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Green 004"
+                },
+                "category": "60169440,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023147",
+                "ufid": "58960433",
+                "name": "Green 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58960433/file.cube?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58960433/cover.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "updatetime": "1704688809",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58960433/cover2.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Green 005"
+                },
+                "category": "60169440,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

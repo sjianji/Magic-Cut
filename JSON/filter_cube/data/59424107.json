@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 5,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023392",
+                "ufid": "47850622",
+                "name": "Soft 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47850622/file.cube?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47850622/cover.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "updatetime": "1704688854",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47850622/cover2.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Soft 001"
+                },
+                "category": "59424107,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023393",
+                "ufid": "58982146",
+                "name": "Soft 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58982146/file.cube?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58982146/cover.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "updatetime": "1704688854",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/58982146/cover2.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Soft 002"
+                },
+                "category": "59424107,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023394",
+                "ufid": "47366424",
+                "name": "Soft 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47366424/file.cube?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47366424/cover.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "updatetime": "1704688854",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/47366424/cover2.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Soft 003"
+                },
+                "category": "59424107,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023395",
+                "ufid": "14880354",
+                "name": "Soft 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/14880354/file.cube?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/14880354/cover.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "updatetime": "1704688854",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/14880354/cover2.png?nonce=a9a34cbe08326cf5e09e2ffe3fbf4470",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Soft 004"
+                },
+                "category": "59424107,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023396",
+                "ufid": "94213514",
+                "name": "Soft 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94213514/file.cube?nonce=dd4b188c1d7ac365ef222a533c258360",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94213514/cover.png?nonce=dd4b188c1d7ac365ef222a533c258360",
+                "updatetime": "1704688855",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94213514/cover2.png?nonce=dd4b188c1d7ac365ef222a533c258360",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Soft 005"
+                },
+                "category": "59424107,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

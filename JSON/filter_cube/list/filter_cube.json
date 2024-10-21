@@ -1,0 +1,968 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "id": "15997792",
+            "utid": "15997792",
+            "name": "\u4eba\u50cf",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:51:31",
+            "classify": "category",
+            "version": 164,
+            "sort": -1000,
+            "sync": "2023-11-16 10:51:31",
+            "extra": {
+                "bg": "8fc5c7"
+            },
+            "polyglot": {
+                "en": "Portrait"
+            },
+            "status": 1
+        },
+        {
+            "id": "87192323",
+            "utid": "87192323",
+            "name": "\u98ce\u666f",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:10:08",
+            "classify": "category",
+            "version": 164,
+            "sort": -999,
+            "sync": "2023-11-16 11:10:08",
+            "extra": {
+                "bg": "435554"
+            },
+            "polyglot": {
+                "en": "View"
+            },
+            "status": 1
+        },
+        {
+            "id": "39179523",
+            "utid": "39179523",
+            "name": "\u591c\u666f",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:10:15",
+            "classify": "category",
+            "version": 164,
+            "sort": -998,
+            "sync": "2023-11-16 11:10:15",
+            "extra": {
+                "bg": "2b507c"
+            },
+            "polyglot": {
+                "en": "Night view"
+            },
+            "status": 1
+        },
+        {
+            "id": "65184230",
+            "utid": "65184230",
+            "name": "ins",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:52:27",
+            "classify": "category",
+            "version": 164,
+            "sort": -997,
+            "sync": "2023-11-16 10:52:27",
+            "extra": {
+                "bg": "d9ae8c"
+            },
+            "polyglot": [],
+            "status": 1
+        },
+        {
+            "id": "35558087",
+            "utid": "35558087",
+            "name": "\u7f8e\u98df",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:05:15",
+            "classify": "category",
+            "version": 164,
+            "sort": -996,
+            "sync": "2023-11-16 11:05:15",
+            "extra": {
+                "bg": "df9c2b"
+            },
+            "polyglot": {
+                "en": "Delicious food"
+            },
+            "status": 1
+        },
+        {
+            "id": "49007420",
+            "utid": "49007420",
+            "name": "\u6587\u827a",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:09:58",
+            "classify": "category",
+            "version": 164,
+            "sort": -995,
+            "sync": "2023-11-16 11:09:58",
+            "extra": {
+                "bg": "435554"
+            },
+            "polyglot": {
+                "en": "Art"
+            },
+            "status": 1
+        },
+        {
+            "id": "93231427",
+            "utid": "93231427",
+            "name": "\u57ce\u5e02",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:53:31",
+            "classify": "category",
+            "version": 164,
+            "sort": -994,
+            "sync": "2023-11-16 10:53:31",
+            "extra": {
+                "bg": "565e6b"
+            },
+            "polyglot": {
+                "en": "City"
+            },
+            "status": 1
+        },
+        {
+            "id": "37639453",
+            "utid": "37639453",
+            "name": "\u6cb9\u7ba1",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:10:24",
+            "classify": "category",
+            "version": 164,
+            "sort": -993,
+            "sync": "2023-11-16 11:10:24",
+            "extra": {
+                "bg": "9e5d4b"
+            },
+            "polyglot": {
+                "en": "Youtube"
+            },
+            "status": 1
+        },
+        {
+            "id": "11206988",
+            "utid": "11206988",
+            "name": "\u6e29\u6696",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:09:41",
+            "classify": "category",
+            "version": 164,
+            "sort": -992,
+            "sync": "2023-11-16 11:09:41",
+            "extra": {
+                "bg": "f1c59b"
+            },
+            "polyglot": {
+                "en": "Warm"
+            },
+            "status": 1
+        },
+        {
+            "id": "46928955",
+            "utid": "46928955",
+            "name": "\u5ba4\u5185",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:08:52",
+            "classify": "category",
+            "version": 164,
+            "sort": -991,
+            "sync": "2023-11-16 11:08:52",
+            "extra": {
+                "bg": "e1a0b4"
+            },
+            "polyglot": {
+                "en": "Indoor"
+            },
+            "status": 1
+        },
+        {
+            "id": "27130762",
+            "utid": "27130762",
+            "name": "\u68ee\u7cfb",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:08:41",
+            "classify": "category",
+            "version": 164,
+            "sort": -990,
+            "sync": "2023-11-16 11:08:41",
+            "extra": {
+                "bg": "759d82"
+            },
+            "polyglot": {
+                "en": "Forest system"
+            },
+            "status": 1
+        },
+        {
+            "id": "59424107",
+            "utid": "59424107",
+            "name": "\u67d4\u548c",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:08:30",
+            "classify": "category",
+            "version": 164,
+            "sort": -989,
+            "sync": "2023-11-16 11:08:30",
+            "extra": {
+                "bg": "f4c762"
+            },
+            "polyglot": {
+                "en": "Soft"
+            },
+            "status": 1
+        },
+        {
+            "id": "67355442",
+            "utid": "67355442",
+            "name": "\u65e5\u7cfb",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:08:13",
+            "classify": "category",
+            "version": 164,
+            "sort": -988,
+            "sync": "2023-11-16 11:08:13",
+            "extra": {
+                "bg": "8fc5c7"
+            },
+            "polyglot": {
+                "en": "Janpan style"
+            },
+            "status": 1
+        },
+        {
+            "id": "25649002",
+            "utid": "25649002",
+            "name": "\u60c5\u7eea",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:07:18",
+            "classify": "category",
+            "version": 164,
+            "sort": -987,
+            "sync": "2023-11-16 11:07:18",
+            "extra": {
+                "bg": "65858a"
+            },
+            "polyglot": {
+                "en": "Mood"
+            },
+            "status": 1
+        },
+        {
+            "id": "38543845",
+            "utid": "38543845",
+            "name": "\u6e05\u65b0",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:07:09",
+            "classify": "category",
+            "version": 164,
+            "sort": -986,
+            "sync": "2023-11-16 11:07:09",
+            "extra": {
+                "bg": "588445"
+            },
+            "polyglot": {
+                "en": "Fresh"
+            },
+            "status": 1
+        },
+        {
+            "id": "48671653",
+            "utid": "48671653",
+            "name": "\u9752\u6a59",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:06:55",
+            "classify": "category",
+            "version": 164,
+            "sort": -985,
+            "sync": "2023-11-16 11:06:55",
+            "extra": {
+                "bg": "e4883b"
+            },
+            "polyglot": {
+                "en": "Green orange"
+            },
+            "status": 1
+        },
+        {
+            "id": "95423152",
+            "utid": "95423152",
+            "name": "\u5de7\u514b\u529b",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:06:39",
+            "classify": "category",
+            "version": 164,
+            "sort": -984,
+            "sync": "2023-11-16 11:06:39",
+            "extra": {
+                "bg": "574538"
+            },
+            "polyglot": {
+                "en": "Chocolate"
+            },
+            "status": 1
+        },
+        {
+            "id": "44540723",
+            "utid": "44540723",
+            "name": "\u5976\u6cb9",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:06:31",
+            "classify": "category",
+            "version": 164,
+            "sort": -983,
+            "sync": "2023-11-16 11:06:31",
+            "extra": {
+                "bg": "ceb0b0"
+            },
+            "polyglot": {
+                "en": "Cream"
+            },
+            "status": 1
+        },
+        {
+            "id": "10491141",
+            "utid": "10491141",
+            "name": "\u83ab\u5170\u8fea",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:06:19",
+            "classify": "category",
+            "version": 164,
+            "sort": -982,
+            "sync": "2023-11-16 11:06:19",
+            "extra": {
+                "bg": "417783"
+            },
+            "polyglot": {
+                "en": "Morandi"
+            },
+            "status": 1
+        },
+        {
+            "id": "55192441",
+            "utid": "55192441",
+            "name": "\u660e\u4eae",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:06:10",
+            "classify": "category",
+            "version": 164,
+            "sort": -981,
+            "sync": "2023-11-16 11:06:10",
+            "extra": {
+                "bg": "9bb0db"
+            },
+            "polyglot": {
+                "en": "Bright"
+            },
+            "status": 1
+        },
+        {
+            "id": "28334299",
+            "utid": "28334299",
+            "name": "\u68a6\u5e7b",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:05:47",
+            "classify": "category",
+            "version": 164,
+            "sort": -980,
+            "sync": "2023-11-16 11:05:47",
+            "extra": {
+                "bg": "e1a0b4"
+            },
+            "polyglot": {
+                "en": "Dream"
+            },
+            "status": 1
+        },
+        {
+            "id": "60169440",
+            "utid": "60169440",
+            "name": "\u7eff\u8272",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:05:01",
+            "classify": "category",
+            "version": 164,
+            "sort": -979,
+            "sync": "2023-11-16 11:05:01",
+            "extra": {
+                "bg": "759d82"
+            },
+            "polyglot": {
+                "en": "Green"
+            },
+            "status": 1
+        },
+        {
+            "id": "57993848",
+            "utid": "57993848",
+            "name": "\u840c\u5ba0",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:05:34",
+            "classify": "category",
+            "version": 164,
+            "sort": -979,
+            "sync": "2023-11-16 11:05:34",
+            "extra": {
+                "bg": "c3acc0"
+            },
+            "polyglot": {
+                "en": "Cute pet"
+            },
+            "status": 1
+        },
+        {
+            "id": "80369196",
+            "utid": "80369196",
+            "name": "\u65c5\u62cd",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:50:04",
+            "classify": "category",
+            "version": 164,
+            "sort": -977,
+            "sync": "2023-11-16 10:50:04",
+            "extra": {
+                "bg": "6aaac5"
+            },
+            "polyglot": {
+                "en": "Trip shot"
+            },
+            "status": 1
+        },
+        {
+            "id": "69180065",
+            "utid": "69180065",
+            "name": "\u5496\u5561",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:04:34",
+            "classify": "category",
+            "version": 164,
+            "sort": -976,
+            "sync": "2023-11-16 11:04:34",
+            "extra": {
+                "bg": "574538"
+            },
+            "polyglot": {
+                "en": "Coffee"
+            },
+            "status": 1
+        },
+        {
+            "id": "12898295",
+            "utid": "12898295",
+            "name": "\u7ecf\u5178",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:04:18",
+            "classify": "category",
+            "version": 164,
+            "sort": -975,
+            "sync": "2023-11-16 11:04:18",
+            "extra": {
+                "bg": "c2adbe"
+            },
+            "polyglot": {
+                "en": "Classic"
+            },
+            "status": 1
+        },
+        {
+            "id": "52608991",
+            "utid": "52608991",
+            "name": "\u8857\u62cd",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:03:51",
+            "classify": "category",
+            "version": 164,
+            "sort": -974,
+            "sync": "2023-11-16 11:03:51",
+            "extra": {
+                "bg": "cc8c4c"
+            },
+            "polyglot": {
+                "en": "Street photography"
+            },
+            "status": 1
+        },
+        {
+            "id": "51215349",
+            "utid": "51215349",
+            "name": "\u80f6\u7247",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:03:13",
+            "classify": "category",
+            "version": 164,
+            "sort": -973,
+            "sync": "2023-11-16 11:03:13",
+            "extra": {
+                "bg": "a05d4c"
+            },
+            "polyglot": {
+                "en": "Film"
+            },
+            "status": 1
+        },
+        {
+            "id": "21023058",
+            "utid": "21023058",
+            "name": "\u7126\u7cd6",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:03:01",
+            "classify": "category",
+            "version": 164,
+            "sort": -972,
+            "sync": "2023-11-16 11:03:01",
+            "extra": {
+                "bg": "a05c4f"
+            },
+            "polyglot": {
+                "en": "Caramel"
+            },
+            "status": 1
+        },
+        {
+            "id": "23985691",
+            "utid": "23985691",
+            "name": "\u5efa\u7b51",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:02:50",
+            "classify": "category",
+            "version": 164,
+            "sort": -971,
+            "sync": "2023-11-16 11:02:50",
+            "extra": {
+                "bg": "3f67a2"
+            },
+            "polyglot": {
+                "en": "Construct"
+            },
+            "status": 1
+        },
+        {
+            "id": "89350833",
+            "utid": "89350833",
+            "name": "\u5a5a\u793c",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:02:30",
+            "classify": "category",
+            "version": 164,
+            "sort": -970,
+            "sync": "2023-11-16 11:02:30",
+            "extra": {
+                "bg": "e58acd"
+            },
+            "polyglot": {
+                "en": "Wedding"
+            },
+            "status": 1
+        },
+        {
+            "id": "29797953",
+            "utid": "29797953",
+            "name": "\u7070\u84dd",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:02:17",
+            "classify": "category",
+            "version": 164,
+            "sort": -969,
+            "sync": "2023-11-16 11:02:17",
+            "extra": {
+                "bg": "204a55"
+            },
+            "polyglot": {
+                "en": "Gray blue"
+            },
+            "status": 1
+        },
+        {
+            "id": "26597975",
+            "utid": "26597975",
+            "name": "\u9ed1\u91d1",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:02:02",
+            "classify": "category",
+            "version": 164,
+            "sort": -968,
+            "sync": "2023-11-16 11:02:02",
+            "extra": {
+                "bg": "565e6b"
+            },
+            "polyglot": {
+                "en": "Black gold"
+            },
+            "status": 1
+        },
+        {
+            "id": "96471014",
+            "utid": "96471014",
+            "name": "\u53e4\u98ce",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:01:50",
+            "classify": "category",
+            "version": 164,
+            "sort": -967,
+            "sync": "2023-11-16 11:01:50",
+            "extra": {
+                "bg": "759d82"
+            },
+            "polyglot": {
+                "en": "Ancient style"
+            },
+            "status": 1
+        },
+        {
+            "id": "96143635",
+            "utid": "96143635",
+            "name": "\u9ad8\u96c5",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:01:29",
+            "classify": "category",
+            "version": 164,
+            "sort": -966,
+            "sync": "2023-11-16 11:01:29",
+            "extra": {
+                "bg": "978e83"
+            },
+            "polyglot": {
+                "en": "Elegant"
+            },
+            "status": 1
+        },
+        {
+            "id": "82249637",
+            "utid": "82249637",
+            "name": "\u6e2f\u98ce",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:00:37",
+            "classify": "category",
+            "version": 164,
+            "sort": -965,
+            "sync": "2023-11-16 11:00:37",
+            "extra": {
+                "bg": "9f5d4f"
+            },
+            "polyglot": {
+                "en": "HongKong style"
+            },
+            "status": 1
+        },
+        {
+            "id": "81078425",
+            "utid": "81078425",
+            "name": "\u98ce\u5149",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 11:00:23",
+            "classify": "category",
+            "version": 164,
+            "sort": -964,
+            "sync": "2023-11-16 11:00:23",
+            "extra": {
+                "bg": "77759d"
+            },
+            "polyglot": {
+                "en": "Scenery"
+            },
+            "status": 1
+        },
+        {
+            "id": "69340301",
+            "utid": "69340301",
+            "name": "\u52a8\u6f2b",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:58:27",
+            "classify": "category",
+            "version": 164,
+            "sort": -963,
+            "sync": "2023-11-16 10:58:27",
+            "extra": {
+                "bg": "f0cb63"
+            },
+            "polyglot": {
+                "en": "Cartoon"
+            },
+            "status": 1
+        },
+        {
+            "id": "72007313",
+            "utid": "72007313",
+            "name": "\u7535\u5f71",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:54:27",
+            "classify": "category",
+            "version": 164,
+            "sort": -962,
+            "sync": "2023-11-16 10:54:27",
+            "extra": {
+                "bg": "76759f"
+            },
+            "polyglot": {
+                "en": "Movie"
+            },
+            "status": 1
+        },
+        {
+            "id": "12544332",
+            "utid": "12544332",
+            "name": "\u6a59\u591c",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:53:58",
+            "classify": "category",
+            "version": 164,
+            "sort": -961,
+            "sync": "2023-11-16 10:53:58",
+            "extra": {
+                "bg": "a96b38"
+            },
+            "polyglot": {
+                "en": "Orange night"
+            },
+            "status": 1
+        },
+        {
+            "id": "63078869",
+            "utid": "63078869",
+            "name": "\u6697\u8c03",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:53:08",
+            "classify": "category",
+            "version": 164,
+            "sort": -960,
+            "sync": "2023-11-16 10:53:08",
+            "extra": {
+                "bg": "5a4d39"
+            },
+            "polyglot": {
+                "en": "Dim"
+            },
+            "status": 1
+        },
+        {
+            "id": "89100697",
+            "utid": "89100697",
+            "name": "vsco",
+            "name_en": "",
+            "appkey": "init",
+            "icon": "",
+            "icon_checked": "",
+            "icon_unchecked": "",
+            "type": "filter_cube",
+            "updatetime": "2023-11-16 10:52:46",
+            "classify": "category",
+            "version": 164,
+            "sort": -955,
+            "sync": "2023-11-16 10:52:46",
+            "extra": {
+                "bg": "99b1dd"
+            },
+            "polyglot": [],
+            "status": 1
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 6,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1022808",
+                "ufid": "51409966",
+                "name": "Elegant 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/51409966/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/51409966/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/51409966/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 001"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022809",
+                "ufid": "73805939",
+                "name": "Elegant 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/73805939/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/73805939/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/73805939/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 002"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022810",
+                "ufid": "49019132",
+                "name": "Elegant 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/49019132/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/49019132/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/49019132/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 003"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022811",
+                "ufid": "27918423",
+                "name": "Elegant 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/27918423/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/27918423/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/27918423/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 004"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022812",
+                "ufid": "94070488",
+                "name": "Elegant 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94070488/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94070488/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/94070488/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 005"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022813",
+                "ufid": "38362186",
+                "name": "Elegant 006",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/38362186/file.cube?nonce=58580392bf87bd780338268b23a6e884",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/38362186/cover.png?nonce=58580392bf87bd780338268b23a6e884",
+                "updatetime": "1704688748",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 6,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/38362186/cover2.png?nonce=58580392bf87bd780338268b23a6e884",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Elegant 006"
+                },
+                "category": "96143635,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

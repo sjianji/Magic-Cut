@@ -1,0 +1,36 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 1,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1022766",
+                "ufid": "30078976",
+                "name": "Anime 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/30078976/file.cube?nonce=5fbb3bb4186e81e7be51cfd7ef54e3db",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/30078976/cover.png?nonce=5fbb3bb4186e81e7be51cfd7ef54e3db",
+                "updatetime": "1704688740",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/30078976/cover2.png?nonce=5fbb3bb4186e81e7be51cfd7ef54e3db",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Anime 001"
+                },
+                "category": "69340301,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

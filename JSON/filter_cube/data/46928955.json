@@ -1,0 +1,108 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 4,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023408",
+                "ufid": "75796171",
+                "name": "Indoor 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/75796171/file.cube?nonce=a41dba792e4e25074b848864283199fd",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/75796171/cover.png?nonce=a41dba792e4e25074b848864283199fd",
+                "updatetime": "1704688857",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/75796171/cover2.png?nonce=a41dba792e4e25074b848864283199fd",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Indoor 001"
+                },
+                "category": "46928955,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023409",
+                "ufid": "70505841",
+                "name": "Indoor 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/70505841/file.cube?nonce=a41dba792e4e25074b848864283199fd",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/70505841/cover.png?nonce=a41dba792e4e25074b848864283199fd",
+                "updatetime": "1704688857",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/70505841/cover2.png?nonce=a41dba792e4e25074b848864283199fd",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Indoor 002"
+                },
+                "category": "46928955,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023410",
+                "ufid": "19321930",
+                "name": "Indoor 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/19321930/file.cube?nonce=a41dba792e4e25074b848864283199fd",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/19321930/cover.png?nonce=a41dba792e4e25074b848864283199fd",
+                "updatetime": "1704688857",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/19321930/cover2.png?nonce=a41dba792e4e25074b848864283199fd",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Indoor 003"
+                },
+                "category": "46928955,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023411",
+                "ufid": "60532026",
+                "name": "Indoor 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60532026/file.cube?nonce=a41dba792e4e25074b848864283199fd",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60532026/cover.png?nonce=a41dba792e4e25074b848864283199fd",
+                "updatetime": "1704688857",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/60532026/cover2.png?nonce=a41dba792e4e25074b848864283199fd",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Indoor 004"
+                },
+                "category": "46928955,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

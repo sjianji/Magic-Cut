@@ -1,0 +1,180 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 7,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023014",
+                "ufid": "78446341",
+                "name": "Film 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78446341/file.cube?nonce=3ec9ecbadc94992cc385ebdb7c42e3d5",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78446341/cover.png?nonce=3ec9ecbadc94992cc385ebdb7c42e3d5",
+                "updatetime": "1704688784",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78446341/cover2.png?nonce=3ec9ecbadc94992cc385ebdb7c42e3d5",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 001"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023015",
+                "ufid": "40394653",
+                "name": "Film 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/40394653/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/40394653/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/40394653/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 002"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023016",
+                "ufid": "24928072",
+                "name": "Film 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24928072/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24928072/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/24928072/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 003"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023017",
+                "ufid": "87815256",
+                "name": "Film 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/87815256/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/87815256/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/87815256/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 004"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023018",
+                "ufid": "17741982",
+                "name": "Film 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/17741982/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/17741982/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/17741982/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 005"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023019",
+                "ufid": "81586938",
+                "name": "Film 006",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/81586938/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/81586938/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 6,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/81586938/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 006"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023020",
+                "ufid": "77915082",
+                "name": "Film 007",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/77915082/file.cube?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/77915082/cover.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "updatetime": "1704688785",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 7,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/77915082/cover2.png?nonce=61beac0c36addbec07d7a12b3a9f2cee",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Film 007"
+                },
+                "category": "51215349,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

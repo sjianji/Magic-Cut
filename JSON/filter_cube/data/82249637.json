@@ -1,0 +1,156 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 6,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1022802",
+                "ufid": "80943141",
+                "name": "Hongkong style 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80943141/file.cube?nonce=fc542759ec4ca1bd1af4ff4ea7338c35",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80943141/cover.png?nonce=fc542759ec4ca1bd1af4ff4ea7338c35",
+                "updatetime": "1704688746",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80943141/cover2.png?nonce=fc542759ec4ca1bd1af4ff4ea7338c35",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 001"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022803",
+                "ufid": "41565964",
+                "name": "Hongkong style 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/41565964/file.cube?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/41565964/cover.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "updatetime": "1704688747",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/41565964/cover2.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 002"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022804",
+                "ufid": "95662786",
+                "name": "Hongkong style 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/95662786/file.cube?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/95662786/cover.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "updatetime": "1704688747",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/95662786/cover2.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 003"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022805",
+                "ufid": "57132382",
+                "name": "Hongkong style 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/57132382/file.cube?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/57132382/cover.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "updatetime": "1704688747",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/57132382/cover2.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 004"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022806",
+                "ufid": "67732520",
+                "name": "Hongkong style 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/67732520/file.cube?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/67732520/cover.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "updatetime": "1704688747",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/67732520/cover2.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 005"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1022807",
+                "ufid": "21140089",
+                "name": "Hongkong style 006",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/21140089/file.cube?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/21140089/cover.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "updatetime": "1704688747",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 6,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/21140089/cover2.png?nonce=d6a669c47bce55a631ef13d6c28ae4f2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Hongkong style 006"
+                },
+                "category": "82249637,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}

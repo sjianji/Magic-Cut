@@ -1,0 +1,156 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "total": 6,
+        "per_page": 10,
+        "current_page": 1,
+        "last_page": 1,
+        "data": [
+            {
+                "id": "1023148",
+                "ufid": "80277182",
+                "name": "Food 001",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80277182/file.cube?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80277182/cover.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "updatetime": "1704688809",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 1,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/80277182/cover2.png?nonce=7f05168ebe3b2b0d6effe8afc7c487b2",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 001"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023149",
+                "ufid": "78713608",
+                "name": "Food 002",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78713608/file.cube?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78713608/cover.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "updatetime": "1704688810",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 2,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78713608/cover2.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 002"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023150",
+                "ufid": "78735121",
+                "name": "Food 003",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78735121/file.cube?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78735121/cover.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "updatetime": "1704688810",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 3,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78735121/cover2.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 003"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023151",
+                "ufid": "78229509",
+                "name": "Food 004",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78229509/file.cube?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78229509/cover.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "updatetime": "1704688810",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 4,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/78229509/cover2.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 004"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023152",
+                "ufid": "34744440",
+                "name": "Food 005",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/34744440/file.cube?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/34744440/cover.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "updatetime": "1704688810",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 5,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/34744440/cover2.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 005"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            },
+            {
+                "id": "1023153",
+                "ufid": "35076590",
+                "name": "Food 006",
+                "file": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35076590/file.cube?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "cover": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35076590/cover.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "updatetime": "1704688810",
+                "height": 0,
+                "width": 0,
+                "video": "",
+                "sort": 6,
+                "version": 164,
+                "cover2": "http://rdfile.oss-cn-hangzhou.aliyuncs.com/filemanage/init/filter_cube/35076590/cover2.png?nonce=9ecb814f6f5f47074aa59c2e50d5d8e6",
+                "appkey": "init",
+                "duration": 0,
+                "extra": {},
+                "polyglot": {
+                    "en": "Food 006"
+                },
+                "category": "35558087,",
+                "audit": 0,
+                "is_ugc": 0,
+                "type": "filter_cube"
+            }
+        ]
+    }
+}
